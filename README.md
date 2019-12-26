@@ -215,12 +215,12 @@ Programs which fail to compile will result in a 0 (zero) for the assignment -- n
 **You are responsible for ensuring that your code is properly submitted and properly compiling
 using the SBT toolchain discussed in class**.
 
-- [Lab 1: Learning Scala](https://github.com/mines-csci400/assignment-lab1)
-- [Lab 2: Expression evaluation](https://github.com/mines-csci400/assignment-lab2)
-- [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/assignment-lab3)
-- [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/assignment-lab4)
+- [Lab 1: Learning Scala](https://github.com/mines-csci400/f19-assignment-lab1)
+- [Lab 2: Expression evaluation](https://github.com/mines-csci400/f19-assignment-lab2)
+- [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f19-assignment-lab3)
+- [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f19-assignment-lab4)
 - [Lab 5: Closures, type checking](https://github.com/mines-csci400/assignment-lab5)
-- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/assignment-lab6)
+- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f19-assignment-lab6)
 
 
 ## Homework
@@ -229,13 +229,13 @@ There will be approximately 7 homeworks, which will be completed individually.
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
 
-- [Homework 1: Course preliminaries](https://github.com/mines-csci400/assignment-hw01)
-- [Homework 2: Scala preliminaries](https://github.com/mines-csci400/assignment-hw02)
-- [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/assignment-hw03)
-- [Homework 4: Structural induction](https://github.com/mines-csci400/assignment-hw04)
-- [Homework 5: Big-step semantics](https://github.com/mines-csci400/assignment-hw05)
-- [Homework 6: Recursive functions](https://github.com/mines-csci400/assignment-hw06)
-- [Homework 7: Type inference](https://github.com/mines-csci400/assignment-hw07)
+- [Homework 1: Course preliminaries](https://github.com/mines-csci400/f19-assignment-hw01)
+- [Homework 2: Scala preliminaries](https://github.com/mines-csci400/f19-assignment-hw02)
+- [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f19-assignment-hw03)
+- [Homework 4: Structural induction](https://github.com/mines-csci400/f19-assignment-hw04)
+- [Homework 5: Big-step semantics](https://github.com/mines-csci400/f19-assignment-hw05)
+- [Homework 6: Recursive functions](https://github.com/mines-csci400/f19-assignment-hw06)
+- [Homework 7: Type inference](https://github.com/mines-csci400/f19-assignment-hw07)
 
 ## Acknowledgements
 
