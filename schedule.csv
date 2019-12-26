@@ -1,0 +1,35 @@
+week,date,topic,lecture,notes,supplemental reading,homework,lab
+1,Aug 20,PL and functional programming,"course intro, overview",[lecture01](…),,[hw 1](https://github.com/mines-csci400/f19-assignment-hw01) assigned,
+,Aug 22,PL and functional programming,"PL building blocks, JavaScript intro",[lecture02](…),"[JavaScript Standard](https://www.ecma-international.org/ecma-262/10.0/index.html), [Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 1.1, 2.1-2.3",,
+2,Aug 27,PL and functional programming,functional programming (simple functional language),[lecture03](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 3,,
+,Aug 29,PL and functional programming,"crash course on Linux, Scala, SBT, Git",[lecture04](…),"[Scastie](https://scastie.scala-lang.org), [Git Cheat Sheet](http://www.marcelofossrj.com/reference%20card/2017/07/26/git-reference.html) , [Scala Exercises](https://www.scala-exercises.org/scala_tutorial) ",[hw 1](https://github.com/mines-csci400/f19-assignment-hw01) due,
+3,Sep 3,PL and functional programming,"crash course on Linux, Scala, SBT, Git",[lecture05](…),"[Programming in Scala](https://www.artima.com/pins1ed/index.html), [Scala Spec](https://scala-lang.org/files/archive/spec/2.12/13-syntax-summary.html)",[hw 2](https://github.com/mines-csci400/f19-assignment-hw02) assigned,
+,Sep 5,expressions and evaluation,"algebraic data types (ADTs), pattern matching",[lecture06](…),[Data Types](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/data/intro.html),,
+4,Sep 10,*no class ([career day](https://www.mines.edu/careers/career-day/))*,,,,,[lab 1](https://github.com/mines-csci400/f19-assignment-lab1) assigned
+,Sep 12,expressions and evaluation,"algebraic data types (ADTs), pattern matching",[lecture07](…),[Data Types](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/data/intro.html),[hw 2](https://github.com/mines-csci400/f19-assignment-hw02) due,
+5,Sep 17,expressions and evaluation,"syntax, grammars",[lecture08](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 1.2,[hw 3](https://github.com/mines-csci400/f19-assignment-hw03) assigned,
+,Sep 19,syntax and semantics,"lexing, parsing",[lecture09](…),"[Lexing](https://courses.cs.washington.edu/courses/cse401/04sp/slides/02-lexing.pdf), [Parsing](https://courses.cs.washington.edu/courses/cse401/04sp/slides/03-parsing.pdf), [Lexing & Parsing](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lex_parse.html)",,[lab 1](https://github.com/mines-csci400/f19-assignment-lab1) due
+6,Sep 24,syntax and semantics,Scala parser combinators,[lecture10](…),[Parser Combinators](https://www.artima.com/pins1ed/combinator-parsing.html),,[lab 2](https://github.com/mines-csci400/f19-assignment-lab2) assigned
+,Sep 26,syntax and semantics,"inductive definitions, recursion",[lecture11](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 1.3,[hw 3](https://github.com/mines-csci400/f19-assignment-hw03) due,
+7,Oct 1,syntax and semantics,structural induction,[lecture12](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 1.4-1.5,[hw 4](https://github.com/mines-csci400/f19-assignment-hw04) assigned,
+,Oct 3,syntax and semantics,big-step operational semantics,[lecture13](…),"[Environment Model](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/env_model.html), [Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 4",,[lab 2](https://github.com/mines-csci400/f19-assignment-lab2) due
+8,Oct 8,higher-order functions,recursive higher-order functions,[lecture14](…),[Higher-order Programming](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/intro.html),,[lab 3](https://github.com/mines-csci400/f19-assignment-lab3) assigned
+,Oct 10,**midterm exam (in class)**,,,,[hw 4](https://github.com/mines-csci400/f19-assignment-hw04) due,
+9,Oct 15,*no class (holiday)*,,,,[hw 5](https://github.com/mines-csci400/f19-assignment-hw05) assigned,
+,Oct 17,higher-order functions,static/dynamic scoping,[lecture15](…),[Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,[lab 3](https://github.com/mines-csci400/f19-assignment-lab3) due
+10,Oct 22,higher-order functions,closures,[lecture16](…),[Evaluating Lambdas](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),,[lab 4](https://github.com/mines-csci400/f19-assignment-lab4) assigned
+,Oct 24,higher-order functions,closures,[lecture17](…),[Implementing Closures](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/lambda_env_model.html),[hw 5](https://github.com/mines-csci400/f19-assignment-hw05) due,
+11,Oct 29,type checking,dynamic typing,[lecture18](…),"[JavaScript Data Types](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures), [JavaScript Type Conversions](https://www.w3schools.com/js/js_type_conversion.asp)",[hw 6](https://github.com/mines-csci400/f19-assignment-hw06) assigned,
+,Oct 31,type checking,static type checking,[lecture19](…),[Type Checking](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/typecheck.html),,[lab 4](https://github.com/mines-csci400/f19-assignment-lab4) due
+12,Nov 5,mutable variables and objects,type inference,[lecture20](…),[Hindley-Milner](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/inference.html),,[lab 5](https://github.com/mines-csci400/f19-assignment-lab5) assigned
+,Nov 7,mutable variables and objects,small-step operational semantics,[lecture21](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 5.1-5.2,[hw 6](https://github.com/mines-csci400/f19-assignment-hw06) due,
+13,Nov 12,mutable variables and objects,small-step operational semantics,[lecture22](…),[Semantics of PL](http://www.cs.tau.ac.il/~msagiv/courses/semantics/semnotes.ps) ch 5.3,[hw 7](https://github.com/mines-csci400/f19-assignment-hw07) assigned,
+,Nov 14,mutable variables and objects,mutable variables,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,[lab 5](https://github.com/mines-csci400/f19-assignment-lab5) due
+14,Nov 19,advanced topics,"objects, references",[lecture24](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),,[lab 6](https://github.com/mines-csci400/f19-assignment-lab6) assigned
+,Nov 21,advanced topics,program transformations,[lecture25](…),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),[hw 7](https://github.com/mines-csci400/f19-assignment-hw07) due,
+15,Nov 26,advanced topics,"monads, Lambda Calculus (PL theory)",[lecture26](…),[Monads](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/adv/monads.html),,
+,Nov 28,*no class (holiday)*,,,,,[lab 6](https://github.com/mines-csci400/f19-assignment-lab6) due
+16,Dec 3,,(exam review),,,,
+,Dec 5,*no class (study for finals)*,,,,,
+17,Dec 10,*no class (final exam week)*,,,,,
+,Dec 12,*no class (final exam week)*,,,,,
