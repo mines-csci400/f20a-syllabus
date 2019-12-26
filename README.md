@@ -1,6 +1,3 @@
-CSCI-400 Programming Languages, Fall 2019
-===================================================
-
 ## Course Information
 
 - **Lecture** Time/Location: Lecture 8:00am-9:15am Tue Thu, Marquez Hall 226
