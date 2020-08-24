@@ -84,7 +84,7 @@ readings from these sources to supplement the lectures, but you are only respons
 for the information presented in lecture.
 
 - [*Functional Programming in OCaml* by Clarkson et al.](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/)
-- [*The Semantics of Programming Languages* by Matthew Hennessy](https://piazza.com/class_profile/get_resource/jzivdlzovrv5w7/jzjecrz4e345v4)
+- [*The Semantics of Programming Languages* by Matthew Hennessy](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/ke83yudmw3a2qe)
 
 The above links will take you to free versions of the materials.
 
