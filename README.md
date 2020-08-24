@@ -33,7 +33,7 @@ of how programming languages are designed and implemented.
 
 ## Prerequisites
 
-The prerequisite is [CSCI-306 Software Engineering](http://cs-courses.mines.edu/csci306/index.html). As long as you have some programming experience (especially in Java), that should be sufficient. [CSCI-358 Discrete Math](http://cs-courses.mines.edu/csci358/index.html) is strongly recommended.
+The prerequisite is [CSCI-306 Software Engineering](http://cs-courses.mines.edu/csci306/index.html). As long as you have some programming experience, that should be sufficient. [CSCI-358 Discrete Math](http://cs-courses.mines.edu/csci358/index.html) is strongly recommended.
 
 ## WARNING
 
@@ -67,7 +67,13 @@ to make sure your question has not already been answered there. If not, please
 go ahead and post your question on Piazza so that the instructor, the TA, or another student
 can answer it publicly. This will help to streamline the communication.
 
-NOTE: if you have a question you do not wish to publicize (e.g., about your
+NOTE #1: **neither the instructors nor the TAs will debug your code for you!** If you are
+having difficulty with a certain piece of code, take the time to identify what specific
+operation(s) is causing unexpected behavior, and ask for help about that. In other words,
+posting/emailing your source code is not allowed, but asking questions about language
+features or generic code snippets is welcomed.
+
+NOTE #2: if you have a question you do not wish to publicize (e.g., about your
 grades, etc.), please create a "private post" on Piazza. **Email should only
 be used in rare instances where use of Piazza would not be feasible.**
 
@@ -199,6 +205,7 @@ This schedule is tentative, and is subject to change.
 ## Lab Topics
 
 There will be 6 labs. Lab 1 will be individual, and Labs 2-6 will be completed in groups of 2-3 students.
+**Your lowest lab score will be discarded before the final grade is calculated!**
 You will have approximately **2 weeks** to work on each lab.
 The labs build on each other, and lab solutions will NOT be provided, meaning you will need to pay
 special attention to building a collection of **test cases**, to ensure that bugs in
@@ -218,12 +225,13 @@ using the toolchain discussed in class**.
 - [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f20a-assignment-lab3)
 - [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f20a-assignment-lab4)
 - [Lab 5: Closures, type checking](https://github.com/mines-csci400/f20a-assignment-lab5)
-- [Lab 6: Objects, mutable variables (Extra Credit!)](https://github.com/mines-csci400/f20a-assignment-lab6)
+- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f20a-assignment-lab6)
 
 
 ## Homework
 
 There will be approximately 7 homeworks, which will be completed individually.
+**Your lowest homework score will be discarded before the final grade is calculated!**
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
 
@@ -233,7 +241,7 @@ You will have approximately **2 weeks** to work on each homework.
 - [Homework 4: Structural induction](https://github.com/mines-csci400/f20a-assignment-hw04)
 - [Homework 5: Big-step semantics](https://github.com/mines-csci400/f20a-assignment-hw05)
 - [Homework 6: Recursive functions](https://github.com/mines-csci400/f20a-assignment-hw06)
-- [Homework 7: Type inference (Extra Credit!)](https://github.com/mines-csci400/f20a-assignment-hw07)
+- [Homework 7: Type inference](https://github.com/mines-csci400/f20a-assignment-hw07)
 
 ## Acknowledgements
 
