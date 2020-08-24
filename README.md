@@ -56,7 +56,7 @@ and your classmates. Participation on Piazza is **required**,
 and will factor into the Participation component of the grade.
 
 The class Piazza link is:
-[https://piazza.com/mines/fall2019/csci400/home](https://piazza.com/mines/fall2019/csci400/home)
+[https://piazza.com/class/ke7zken8i6n58f](https://piazza.com/class/ke7zken8i6n58f)
 
 The instructor will use Piazza to communicate with the class. If you have
 questions about the course, you should first do a quick search on the Piazza page,
