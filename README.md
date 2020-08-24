@@ -1,21 +1,24 @@
 ## Course Information
 
-- **Lecture** Time/Location: Lecture 8:00am-9:15am Tue Thu, Marquez Hall 226
+- **Lecture** Time/Location: 2:00pm-3:15pm Tue Thu, via [Zoom/YouTube](https://piazza.com/mines/fall2020/csci400sectiona/home)
 
 ## Instructor
 
 [Jedidiah McClurg](https://www.jrmcclurg.com/), Assistant Professor of CS
 
 - Contact: mcclurg (at) mines (dot) edu
-- Office: Brown Hall 280C
-- Office Hours: Tue Thu 9:30am-11am
+- ~~Office: Brown Hall 280C~~ (currently remote)
+- Office Hours: Tue Thu 6:00pm-7:00pm, via [Zoom](https://piazza.com/mines/fall2020/csci400sectiona/home)
 
-## Teaching Assistant (TA)
+## Teaching Assistants (TA)
 
-Kepler Novotny
+Jensen Eicher
 
-- Contact: knovotny (at) mymail (dot) mines (dot) edu
-- Office Hours: Mon Wed 2pm-3pm in Brown Hall 136 (Linux Lab)
+- Contact: jeicher (at) mymail (dot) mines (dot) edu
+
+Justin McGowen
+
+- Contact: jmcgowen (at) mymail (dot) mines (dot) edu
 
 ## Course Overview
 
@@ -23,30 +26,30 @@ In previous courses, you have examined how to write programs in individual langu
 In this class, we will take a broader view of programming languages, and study the key
 concepts and techniques that allow developers to *implement* languages such as Java or C.
 This will be a project-based course, and we will develop significant experience in this area,
-by learning how to use *functional programming* (specifically the Scala language) to build
+by learning how to use *functional programming* (specifically the OCaml language) to build
 (over the course of the semester) a working interpreter for a non-trivial subset of JavaScript.
 Ultimately, the course will improve your skill as a programmer, and will deepen your understanding
 of how programming languages are designed and implemented.
 
 ## Prerequisites
 
-The prerequisite is [CSCI-306 Software Engineering](http://cs-courses.mines.edu/csci306/index.html). As long as you have some programming experience (especially in Java), that should be sufficient.
+The prerequisite is [CSCI-306 Software Engineering](http://cs-courses.mines.edu/csci306/index.html). As long as you have some programming experience (especially in Java), that should be sufficient. [CSCI-358 Discrete Math](http://cs-courses.mines.edu/csci358/index.html) is strongly recommended.
 
 ## WARNING
 
 This is a **difficult** class, for several reasons:
-1. We will take a very **formal** approach to the topics, i.e., we will carefully develop the mathematical/logical underpinnings of programming languages design and implementation. You may not have seen this level of formality in any other CS class so far.
-2. The class is **project-based**, meaning you should expect to spend a significant amount of time writing code.
-3. Virtually all of the code you write will be in a **functional programming language** like Scala. This will likely be your first exposure to functional programming.
+1. We will take a **formal** approach to the topics, i.e., we will carefully develop the mathematical/logical underpinnings of programming languages design and implementation. You may not have seen this level of formality in any other CS class so far.
+2. The class is **project-based**, meaning you should expect to devote a significant portion of your effort for this class towards writing code.
+3. Virtually all of the code you write will be in a **functional programming language** like OCaml. This may be your first exposure to functional programming.
 4. Programming languages textbooks are often highly technical. We have tried to collect some of the most easily-digestible materials for your reference, but you may find it difficult to master the material without being actively engaged in the class. Class **attendance and participation are essential**.
 
 ## Online Community and Communication
 
 **In Homework 1, you will be asked to introduce yourself to the instructor. This includes sending
-a passport-style photo of yourself to the instructor (or adding one on your Canvas profile).
+a passport-style photo of yourself to the instructor.
 The photo must be clear, with your face un-obstructed.**
 If you are not comfortable providing a photo, then you will need to contact the instructor to set up
-a brief in-person meeting to introduce yourself.
+a brief Zoom meeting to introduce yourself.
 Failure to meet this requirement on Homework 1 will result in a 0 (zero) for the Participation component
 of the grade.
 
@@ -76,7 +79,6 @@ for the information presented in lecture.
 
 - [*Functional Programming in OCaml* by Clarkson et al.](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/)
 - [*The Semantics of Programming Languages* by Matthew Hennessy](https://piazza.com/class_profile/get_resource/jzivdlzovrv5w7/jzjecrz4e345v4)
-- [*Programming in Scala* by Odersky, Spoon, and Venners](https://www.artima.com/pins1ed/)
 
 The above links will take you to free versions of the materials.
 
@@ -88,7 +90,7 @@ Class notes will be posted 1-2 days after the lecture.
 
 There is a Github organization for the class:
 [https://github.com/mines-csci400](https://github.com/mines-csci400)
-All of your individual/team repositories will show up here.
+All of your individual/team repositories will show up there.
 
 ## Grading
 
@@ -100,11 +102,11 @@ work hard, and not rely on the curve!*
 
 | item             | percentage    |
 | -----------------|---------------|
-| labs             | 50%           |
+| labs             | 65%           |
 | homeworks        | 10%           |
-| exam 1           | 15%           |
-| exam 2           | 15%           |
-| participation    | 10%           |
+| exam 1           | 10%           |
+| exam 2           | 10%           |
+| participation    | 5%            |
 
 Letter grades will be calculated based on the following intervals:
 
@@ -125,9 +127,8 @@ Letter grades will be calculated based on the following intervals:
 
 ## Attendance
 
-Class attendance is not required, but is highly recommended.
-If attendence drops beyond a reasonable threshold, I may
-implement a less lenient policy regarding attendance.
+Class attendance is not required, but is highly recommended
+(see above info about Class Notes).
 
 ## Collaboration
 
@@ -210,14 +211,14 @@ interpreter to compare with your implementation's behavior.
 Buggy behavior will be identified by our own comprehensive set of test cases, and will result in lost points.
 Programs which fail to compile will result in a 0 (zero) for the assignment -- no exceptions!
 **You are responsible for ensuring that your code is properly submitted and properly compiling
-using the SBT toolchain discussed in class**.
+using the toolchain discussed in class**.
 
-- [Lab 1: Learning Scala](https://github.com/mines-csci400/f19-assignment-lab1)
-- [Lab 2: Expression evaluation](https://github.com/mines-csci400/f19-assignment-lab2)
-- [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f19-assignment-lab3)
-- [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f19-assignment-lab4)
-- [Lab 5: Closures, type checking](https://github.com/mines-csci400/assignment-lab5)
-- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f19-assignment-lab6)
+- [Lab 1: Learning OCaml](https://github.com/mines-csci400/f20a-assignment-lab1)
+- [Lab 2: Expression evaluation](https://github.com/mines-csci400/f20a-assignment-lab2)
+- [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f20a-assignment-lab3)
+- [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f20a-assignment-lab4)
+- [Lab 5: Closures, type checking](https://github.com/mines-csci400/f20a-assignment-lab5)
+- [Lab 6: Objects, mutable variables (Extra Credit!)](https://github.com/mines-csci400/f20a-assignment-lab6)
 
 
 ## Homework
@@ -226,13 +227,13 @@ There will be approximately 7 homeworks, which will be completed individually.
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
 
-- [Homework 1: Course preliminaries](https://github.com/mines-csci400/f19-assignment-hw01)
-- [Homework 2: Scala preliminaries](https://github.com/mines-csci400/f19-assignment-hw02)
-- [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f19-assignment-hw03)
-- [Homework 4: Structural induction](https://github.com/mines-csci400/f19-assignment-hw04)
-- [Homework 5: Big-step semantics](https://github.com/mines-csci400/f19-assignment-hw05)
-- [Homework 6: Recursive functions](https://github.com/mines-csci400/f19-assignment-hw06)
-- [Homework 7: Type inference](https://github.com/mines-csci400/f19-assignment-hw07)
+- [Homework 1: Course preliminaries](https://github.com/mines-csci400/f20a-assignment-hw01)
+- [Homework 2: Scala preliminaries](https://github.com/mines-csci400/f20a-assignment-hw02)
+- [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f20a-assignment-hw03)
+- [Homework 4: Structural induction](https://github.com/mines-csci400/f20a-assignment-hw04)
+- [Homework 5: Big-step semantics](https://github.com/mines-csci400/f20a-assignment-hw05)
+- [Homework 6: Recursive functions](https://github.com/mines-csci400/f20a-assignment-hw06)
+- [Homework 7: Type inference (Extra Credit!)](https://github.com/mines-csci400/f20a-assignment-hw07)
 
 ## Acknowledgements
 
