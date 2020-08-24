@@ -1,6 +1,6 @@
 ## Course Information
 
-- **Lecture** Time/Location: 2:00pm-3:15pm Tue Thu, via [Zoom/YouTube](https://piazza.com/mines/fall2020/csci400sectiona/home)
+- **Lecture** Time/Location: 2:00pm-3:15pm Tue Thu, via [Zoom/YouTube](https://piazza.com/class/ke7zken8i6n58f?cid=6)
 
 ## Instructor
 
@@ -8,7 +8,7 @@
 
 - Contact: mcclurg (at) mines (dot) edu
 - ~~Office: Brown Hall 280C~~ (currently remote)
-- Office Hours: Tue Thu 6:00pm-7:00pm, via [Zoom](https://piazza.com/mines/fall2020/csci400sectiona/home)
+- Office Hours: Tue Thu 6:00pm-7:00pm, via [Zoom](https://piazza.com/class/ke7zken8i6n58f?cid=6)
 
 ## Teaching Assistants (TA)
 
