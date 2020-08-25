@@ -235,7 +235,7 @@ There will be approximately 7 homeworks, which will be completed individually.
 These are designed to help encourage you to keep up-to-date on the course material.
 You will have approximately **2 weeks** to work on each homework.
 
-- [Homework 1: Course preliminaries](https://github.com/mines-csci400/f20a-assignment-hw01)
+- [Homework 1: Course preliminaries](https://docs.google.com/forms/d/e/1FAIpQLSehFW68eMDZx9fogsVAaZXilGpgz5n5AIR8dHIB-IouRGR-0A/viewform?usp=sf_link)
 - [Homework 2: Scala preliminaries](https://github.com/mines-csci400/f20a-assignment-hw02)
 - [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f20a-assignment-hw03)
 - [Homework 4: Structural induction](https://github.com/mines-csci400/f20a-assignment-hw04)
