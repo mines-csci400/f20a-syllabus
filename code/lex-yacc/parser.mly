@@ -1,5 +1,10 @@
 /* https://caml.inria.fr/pub/docs/manual-ocaml/lexyacc.html */
 
+%{
+(* OCaml code here *)
+open Ast
+%}
+
 %token <int> INT        /* integer token */
 %token PLUS MINUS TIMES DIV
 %token LPAREN RPAREN
@@ -9,7 +14,7 @@
 %left TIMES DIV         /* medium precedence */
 %nonassoc UMINUS        /* highest precedence */
 %start main             /* start symbol is "main" */
-%type <int> main        /* parser returns type int */
+%type <Ast.data> main   /* parser returns type int */
 %%
 main:
     expr EOL                { $1 }
