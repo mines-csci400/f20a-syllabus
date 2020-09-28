@@ -1,5 +1,7 @@
 (* https://caml.inria.fr/pub/docs/manual-ocaml/lexyacc.html *)
 
+open Ast
+
 let _ =
   try
     let lexbuf = Lexing.from_channel stdin in
