@@ -104,15 +104,25 @@ The following percentages show how final grades will be calculated.
 I will *not* perform any rounding on the scores (e.g., a score of 92.999 will not be rounded up to 93).
 I may or may not curve the overall
 grades, depending on how well the class performs overall, however, *I expect each student to
-work hard, and not rely on the curve!* 
+work hard, and not rely on the curve!*
+
+Many of us are facing exceptional difficulties due to the pandemic, remote learning, etc.,
+so I am starting everyone's overall grade at 56%. If your goal is to pass the class, that
+should be attainable with minimal effort. If your goal is to obtain an "A", you will
+still need to take the class seriously, and put in effort on each assignment/exam,
+as well as actively participate.
 
 | item             | percentage    |
 | -----------------|---------------|
-| labs             | 65%           |
-| homeworks        | 10%           |
-| exam 1           | 10%           |
-| exam 2           | 10%           |
-| participation    | 5%            |
+| baseline grade   | 56%           |
+| labs             | 28%           |
+| homeworks        | 4.5%          |
+| exam 1           | 4.5%          |
+| exam 2           | 4.5%          |
+| participation    | 2.5%          |
+
+Late policy: late submissions are accepted up to 5 days after the deadline, with a
+penalty of -20% per day applied.
 
 Letter grades will be calculated based on the following intervals:
 
