@@ -214,9 +214,9 @@ This schedule is tentative, and is subject to change. Deadlines are at 11:59pm (
 
 ## Lab Topics
 
-There will be 6 labs. Lab 1 will be individual, and Labs 2-6 will be completed in groups of 2-3 students.
+There will be 4 labs. Lab 1 will be individual, and Labs 2-4 will be completed in groups of 2-3 students.
 **Your lowest lab score will be discarded before the final grade is calculated!**
-You will have approximately **2 weeks** to work on each lab.
+You will have approximately **3 weeks** to work on each lab.
 The labs build on each other, and lab solutions will NOT be provided, meaning you will need to pay
 special attention to building a collection of **test cases**, to ensure that bugs in
 earlier lab submissions do not propagate into later labs.
@@ -234,24 +234,24 @@ using the toolchain discussed in class**.
 - [Lab 2: Expression evaluation](https://github.com/mines-csci400/f20a-assignment-lab2)
 - [Lab 3: Basic JavaScript interpreter](https://github.com/mines-csci400/f20a-assignment-lab3)
 - [Lab 4: Implementing recursive higher-order functions](https://github.com/mines-csci400/f20a-assignment-lab4)
-- [Lab 5: Closures, type checking](https://github.com/mines-csci400/f20a-assignment-lab5)
-- [Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f20a-assignment-lab6)
+- ~~[Lab 5: Closures, type checking](https://github.com/mines-csci400/f20a-assignment-lab5)~~
+- ~~[Lab 6: Objects, mutable variables](https://github.com/mines-csci400/f20a-assignment-lab6)~~
 
 
 ## Homework
 
-There will be approximately 7 homeworks, which will be completed individually.
+There will be approximately 5 homeworks, which will be completed individually.
 **Your lowest homework score will be discarded before the final grade is calculated!**
 These are designed to help encourage you to keep up-to-date on the course material.
-You will have approximately **2 weeks** to work on each homework.
+You will have approximately **3 weeks** to work on each homework.
 
 - [Homework 1: Course preliminaries](https://docs.google.com/forms/d/e/1FAIpQLSehFW68eMDZx9fogsVAaZXilGpgz5n5AIR8dHIB-IouRGR-0A/viewform?usp=sf_link)
 - [Homework 2: Scala preliminaries](https://github.com/mines-csci400/f20a-assignment-hw02)
 - [Homework 3: Lexing & Parsing](https://github.com/mines-csci400/f20a-assignment-hw03)
 - [Homework 4: Structural induction](https://github.com/mines-csci400/f20a-assignment-hw04)
 - [Homework 5: Big-step semantics](https://github.com/mines-csci400/f20a-assignment-hw05)
-- [Homework 6: Recursive functions](https://github.com/mines-csci400/f20a-assignment-hw06)
-- [Homework 7: Type inference](https://github.com/mines-csci400/f20a-assignment-hw07)
+- ~~[Homework 6: Recursive functions](https://github.com/mines-csci400/f20a-assignment-hw06)~~
+- ~~[Homework 7: Type inference](https://github.com/mines-csci400/f20a-assignment-hw07)~~
 
 ## Acknowledgements
 
