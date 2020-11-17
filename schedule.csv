@@ -23,7 +23,7 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 ,Nov 5,higher-order functions,small-step operational semantics,[lecture19](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/kh58z22iup877o),[Type Checking](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/typecheck.html),,[lab 4](https://github.com/mines-csci400/f20a-assignment-lab4) due
 12,Nov 10,type checking,static/dynamic typing,[lecture20](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/khcf8fjtkg1cu),[Hindley-Milner](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/interp/inference.html),,[lab 5](https://github.com/mines-csci400/f20a-assignment-lab5) assigned
 ,Nov 12,type checking,type inference,[lecture21](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/khf9ex61kxq510),Semantics of PL ch 5.1-5.2,[hw 6](https://github.com/mines-csci400/f20a-assignment-hw06) due,
-13,Nov 17,mutable variables and objects,objects/references,[lecture22](…),Semantics of PL ch 5.3,[hw 7](https://github.com/mines-csci400/f20a-assignment-hw07) assigned,
+13,Nov 17,mutable variables and objects,objects/references,[lecture22](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/khmd5sk4iav7mx),Semantics of PL ch 5.3,[hw 7](https://github.com/mines-csci400/f20a-assignment-hw07) assigned,
 ,Nov 19,mutable variables and objects,garbage collection,[lecture23](…),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,[lab 5](https://github.com/mines-csci400/f20a-assignment-lab5) due
 14,Nov 24,*no class*,,,,,[lab 6](https://github.com/mines-csci400/f20a-assignment-lab6) assigned
 ,Nov 26,*no class (holiday)*,,,,,
