@@ -27,7 +27,7 @@ week,date,topic,lecture,notes,supplemental reading,homework,lab
 ,Nov 19,mutable variables and objects,garbage collection,[lecture23](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/khp5aq4fj49o5),[Mutability](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/intro.html),,[lab 5](https://github.com/mines-csci400/f20a-assignment-lab5) due
 14,Nov 24,*no class*,,,,,[lab 6](https://github.com/mines-csci400/f20a-assignment-lab6) assigned
 ,Nov 26,*no class (holiday)*,,,,,
-15,Dec 1,advanced topics,,[lecture24](…),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f20a-assignment-hw07) due,
+15,Dec 1,advanced topics,,[lecture24](https://piazza.com/class_profile/get_resource/ke7zken8i6n58f/ki69uuy53c827e),[Mutable Fields](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/mut/mutable_fields.html),[hw 7](https://github.com/mines-csci400/f20a-assignment-hw07) due,
 ,Dec 3,advanced topics,,[lecture25](…),[Currying](https://www.cs.cornell.edu/courses/cs3110/2019fa/textbook/hop/currying.html),,[lab 6](https://github.com/mines-csci400/f20a-assignment-lab6) due
 16,Dec 8,,(exam review),,,,
 ,Dec 10,*no class (study for finals)*,,,,,
